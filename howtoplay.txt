@@ -1,0 +1,18 @@
+Play: Start the game.
+
+Singleplayer:
+You will play Goofspiel against a computer player. 
+
+Multiplayer:
+Play against a friend (or yourself).
+
+Settings:
+Enable or disable alternate gamemode.
+
+The cards you have will be listed on the screen. Type the corresponding number for the card you wish to select, and press enter to send.
+To confirm your card choice, enter y.
+If you wish to change, enter n.
+
+End your turn by pressing enter.
+
+In multiplayer, there will be a screen before you begin your turn. This ensures that your opponent cannot see what cards you still have in posession. 

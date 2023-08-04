@@ -1,0 +1,16 @@
+Goofspiel is a card game for two players, using cards from a standard deck of cards. 
+
+Each suit is ranked, i.e. ace is worth one point, 2 is two points, etc., jack 11, queen 12, and king 13 points. 
+
+One suit is singled out as the "prizes"; each of the remaining suits becomes a hand for one player, with one suit discarded. 
+
+The prize cards are shuffled and placed between the players with one card turned up. Play proceeds in a series of rounds. The players make sealed bids for the top (face up) prize by selecting a card from their hand (keeping their choice secret from their opponent). 
+
+Once these cards are selected, they are simultaneously revealed, and the player making the highest bid takes the prize card. If there is a tie, the prize card value is equally split between the tied players. The cards used for bidding are discarded, and play continues with a new upturned prize card.
+
+After 13 rounds, there are no remaining cards and the game ends. The player who has gained the highest sum of the prize cards wins the game.
+
+Normal gamemode:
+If the two players tie, the prize will be split across te two players
+Alternative gamemode:
+If the two players tie, the prize card will be moved to next round.
